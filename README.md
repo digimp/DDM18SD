@@ -1,4 +1,4 @@
-# DDM18SD-modbus-power-meter
+# DDM18SD
 A Tasmota scripting based language script to read values of the power meter
 ### SECTIONS:
 
